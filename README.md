@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- github stats -->
-[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12)](https://github.com/ngoakor12/github-readme-stats)
+[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12&count_private=true)](https://github.com/ngoakor12/github-readme-stats)
 
 
 <!--
