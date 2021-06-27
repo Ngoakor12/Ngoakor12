@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on projects for [my portfolio](https://ngoako.com)
-- 🌱 I’m currently learning fullstack web development
+- 🌱 I’m currently learning fullstack web development at @umuzi
 - 📫 How to reach me: ngoakor12@gmail.com
 - ⚡ Fun fact: I watch more than 60 hours of football every year(UP THE CHELS!💙)
 
