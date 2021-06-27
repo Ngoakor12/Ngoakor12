@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on projects for my portfolio
+- 🌱 I’m currently learning fullstack web development
+- 📫 How to reach me: ngoakor12@gmail.com
+- ⚡ Fun fact: I watch more than 60 hours of football every year
+
 <!-- github stats -->
 [![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/ngoakor12/github-readme-stats)
 
