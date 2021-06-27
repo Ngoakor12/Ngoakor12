@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!-- github stats -->
+[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12)](https://github.com/ngoakor12/github-readme-stats)
+
 
 <!--
 **Ngoakor12/Ngoakor12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
