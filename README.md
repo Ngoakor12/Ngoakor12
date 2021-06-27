@@ -9,7 +9,7 @@
 <!-- github stats -->
 [![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/ngoakor12/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoakor12&layout=compact)](https://github.com/ngoakor12/github-readme-stats)
+
 
 
 <!--
