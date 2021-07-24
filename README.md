@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I watch more than 60 hours of football every year(UP THE CHELS!💙)
 
 <!-- github stats -->
-[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/ngoakor12/github-readme-stats)
+[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoakor12&count_private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/ngoakor12/github-readme-stats)
 
 
 
