@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects for [My portfolio](https://ngoako.dev/)
-- 📫 How to reach me: ngoakor12@gmail.com
+- 🔭 I’m currently working on projects for my [portfolio](https://ngoako.dev/)(check it out🤙)
 - ⚡ Fun fact: I watch more than 60 hours of football every year(UP THE CHELS!💙)
 
 <!-- github stats -->
