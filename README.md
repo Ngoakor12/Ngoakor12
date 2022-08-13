@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects for my [portfolio](https://ngoako.dev/)(check it out🤙)
+- 🔭 I’m always working on different projects, but my current focus is [message later](https://github.com/Ngoakor12/message-later)
 - ⚡ Fun fact: I watch more than 60 hours of football every year(UP THE CHELS!💙)
 
 <!-- github stats -->
